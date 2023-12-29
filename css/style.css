@@ -26,7 +26,7 @@ body{
     padding: 30px 30px;
     position: absolute;
     top: 50%;
-    left: 565px;
+    left:30%;
     border: 5px solid rgb(153,102,204, 0.6);
     border-radius: 100PX;
     backdrop-filter: blur(10px);
